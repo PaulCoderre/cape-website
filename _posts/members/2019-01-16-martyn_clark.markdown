@@ -7,10 +7,10 @@ author: Martyn Clark
 categories:
 - current_member
 img: martyn_canmore.jpg
-position: Associate Director, Centre for Hydrology and Coldwater Lab
+position: Canada Research Chair in Environmental Prediction
 social:
 - title: envelope #use for email address
-  url: "mailto:martyn.clark@usask.ca"
+  url: "mailto:martyn.clark@ucalgary.ca"
 education:
 - school: University of Colorado
   location: Boulder, Colorado
@@ -23,10 +23,14 @@ education:
   degree: MSc
   year: 1995
 positions_held:
+- position: Canada Research Chair in Environmental Prediction
+  employer: Civil Engineering Department, University of Calgary
+  location: Calgary, Alberta, CANADA
+  period: 2023-present
 - position: Professor of Hydrology
   employer: University of Saskatchewan Coldwater Laboratory
   location: Canmore, Alberta, CANADA 
-  period: 2019-present
+  period: 2019-2023
 - position: Senior Scientist
   employer: National Center for Atmospheric Research 
   location: Boulder, Colorado
@@ -55,7 +59,7 @@ positions_held:
 
 ### Short Bio
 
-Martyn is a Professor of Hydrology at the University of Saskatchewan, Associate Director of the University of Saskatchewan's Centre for Hydrology and the Canmore Coldwater Laboratory, and Fellow of the American Geophysical Union. Martyn’s research focuses in three main areas: (i) developing and evaluating process-based hydrologic models; (ii) understanding the sensitivity of water resources to climate variability and change; and (iii) developing the next generation streamflow forecasting systems. Martyn has authored or co-authored over 200 journal articles since receiving his PhD in 1998.
+Martyn is Professor of Hydrology in the Civil Engineering Department at the University of Calgary, Canada Research Chair in Environmental Prediction, and Fellow of the American Geophysical Union. Martyn’s research focuses in three main areas: (i) developing and evaluating process-based hydrologic models; (ii) understanding the sensitivity of water resources to climate variability and change; and (iii) developing the next generation streamflow forecasting systems. Martyn has authored or co-authored over 200 journal articles since receiving his PhD in 1998.
 
 ### Publications
 {% include_relative pubs/clarkPubs.markdown %}
